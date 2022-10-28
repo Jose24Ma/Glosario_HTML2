@@ -1,0 +1,51 @@
+p
+{
+ font-family: Arial, Helvetica, sans-serif; color: white;
+}
+a:link, a:visited
+{
+  background-color: #0D1721;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active 
+{
+  background-color: #000000;
+}
+body
+{ 
+  background-color: #1D2A35;
+}
+h2
+{
+    background-color: #38444D;
+}
+
+.Boton:link, .Boton:visited
+{
+    background-color: #ffff;
+    color: #15202B;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial, Helvetica,sans-serif; 
+    border-radius: 10px;
+
+}
+.Boton:hover, .Boton:active
+{
+    background-color: #616161;
+}
+.Letra
+{
+    border: 2px solid #38444D; 
+    text-align: center;
+    background-color: #38444D;
+    font-family: Arial, Helvetica,sans-serif; 
+    color: aliceblue;
+}
